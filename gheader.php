@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Gravatar Header
-Plugin URI: http://www.tygertown.us/joomla/index.php?option=com_content&view=category&layout=blog&id=44&Itemid=65
+Plugin URI: https://github.com/necrolyte2/wp_gravatar_header
 Description: Changes the get header_image function to return your gravatar image
 Version: 1.0
 Author: Tyghe Vallard
-Author URI: http://www.tygertown.us/blog
+Author URI: http://www.tygertown.us
 
     Copyright 2009  Tyghe Vallard  (email : vallardt@gmail.com)
 
